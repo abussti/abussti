@@ -92,9 +92,7 @@ Honeypot environment for collecting attacker activity and analysing malicious be
 
 ## 📫 Connect
 
-**LinkedIn:** [My LinkedIn]
+**LinkedIn:** [linkedin.com/in/ahmad-bussti-7bb574359/](https://www.linkedin.com/in/ahmad-bussti-7bb574359/)
 **Email:** [abussti@gmail.com](mailto:abussti@gmail.com)
 
 ---
-
-> **Build it. Break it. Detect it. Automate it.**
